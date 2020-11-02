@@ -1,0 +1,62 @@
+2020-11-02 04:10:18.990  WARN 17372 --- [TestNG-tests-2] o.s.boot.StartupInfoLogger               : InetAddress.getLocalHost().getHostName() took 5002 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2020-11-02 04:10:24.001  INFO 17372 --- [TestNG-tests-2] c.s.selenium.googleTest.GoogleTest2      : Starting GoogleTest2 on MACPRO51.local with PID 17372 (/Users/bhuwan.brijwasi/Documents/project/springbootcucumber/springBootSelenium/target/test-classes started by bhuwan.brijwasi in /Users/bhuwan.brijwasi/Documents/project/springbootcucumber/springBootSelenium)
+2020-11-02 04:10:24.002  INFO 17372 --- [TestNG-tests-2] c.s.selenium.googleTest.GoogleTest2      : No active profile set, falling back to default profiles: default
+2020-11-02 04:10:24.614  INFO 17372 --- [TestNG-tests-2] c.s.selenium.googleTest.GoogleTest2      : Started GoogleTest2 in 15.931 seconds (JVM running for 20.202)
+2020-11-02 04:10:24.825  INFO 17372 --- [TestNG-tests-4] i.g.bonigarcia.wdm.WebDriverManager      : Exporting webdriver.chrome.driver as /Users/bhuwan.brijwasi/.cache/selenium/chromedriver/mac64/86.0.4240.22/chromedriver
+2020-11-02 04:10:24.839  INFO 17372 --- [TestNG-tests-1] i.g.bonigarcia.wdm.WebDriverManager      : Using chromedriver 86.0.4240.22 (resolved driver for Chrome 86)
+2020-11-02 04:10:24.844  INFO 17372 --- [TestNG-tests-1] i.g.bonigarcia.wdm.WebDriverManager      : Exporting webdriver.chrome.driver as /Users/bhuwan.brijwasi/.cache/selenium/chromedriver/mac64/86.0.4240.22/chromedriver
+2020-11-02 04:10:24.851  INFO 17372 --- [TestNG-tests-3] i.g.bonigarcia.wdm.WebDriverManager      : Using chromedriver 86.0.4240.22 (resolved driver for Chrome 86)
+2020-11-02 04:10:24.855  INFO 17372 --- [TestNG-tests-3] i.g.bonigarcia.wdm.WebDriverManager      : Exporting webdriver.chrome.driver as /Users/bhuwan.brijwasi/.cache/selenium/chromedriver/mac64/86.0.4240.22/chromedriver
+2020-11-02 04:10:24.862  INFO 17372 --- [TestNG-tests-2] i.g.bonigarcia.wdm.WebDriverManager      : Using chromedriver 86.0.4240.22 (resolved driver for Chrome 86)
+2020-11-02 04:10:24.865  INFO 17372 --- [TestNG-tests-2] i.g.bonigarcia.wdm.WebDriverManager      : Exporting webdriver.chrome.driver as /Users/bhuwan.brijwasi/.cache/selenium/chromedriver/mac64/86.0.4240.22/chromedriver
+2020-11-02 04:10:27.795  INFO 17372 --- [Forwarding newSession on session null to remote] o.o.selenium.remote.ProtocolHandshake    : Detected dialect: W3C
+2020-11-02 04:10:27.896  INFO 17372 --- [TestNG-tests-1] c.s.selenium.page.google.GooglePage      : navigating to - https://www.google.com
+2020-11-02 04:10:27.951  INFO 17372 --- [Forwarding newSession on session null to remote] o.o.selenium.remote.ProtocolHandshake    : Detected dialect: W3C
+2020-11-02 04:10:27.958  INFO 17372 --- [TestNG-tests-2] c.s.selenium.page.google.GooglePage      : navigating to - https://www.google.com
+2020-11-02 04:10:28.027  INFO 17372 --- [Forwarding newSession on session null to remote] o.o.selenium.remote.ProtocolHandshake    : Detected dialect: W3C
+2020-11-02 04:10:28.031  INFO 17372 --- [TestNG-tests-3] c.s.selenium.page.google.GooglePage      : navigating to - https://www.google.com
+2020-11-02 04:10:31.574  INFO 17372 --- [Forwarding newSession on session null to remote] o.o.selenium.remote.ProtocolHandshake    : Detected dialect: W3C
+2020-11-02 04:10:31.579  INFO 17372 --- [TestNG-tests-4] c.s.selenium.page.google.GooglePage      : navigating to - https://www.google.com
+2020-11-02 04:10:37.027  INFO 17372 --- [TestNG-tests-2] c.s.s.page.google.SearchComponent        : Waiting for page to load
+2020-11-02 04:10:37.028  INFO 17372 --- [TestNG-tests-1] c.s.s.page.google.SearchComponent        : Waiting for page to load
+2020-11-02 04:10:37.086  INFO 17372 --- [TestNG-tests-2] c.s.s.page.google.SearchComponent        : Searching for keyword - selenium
+2020-11-02 04:10:37.086  INFO 17372 --- [TestNG-tests-1] c.s.s.page.google.SearchComponent        : Searching for keyword - environment
+2020-11-02 04:10:37.271  INFO 17372 --- [TestNG-tests-3] c.s.s.page.google.SearchComponent        : Waiting for page to load
+2020-11-02 04:10:37.307  INFO 17372 --- [TestNG-tests-3] c.s.s.page.google.SearchComponent        : Searching for keyword - environment
+2020-11-02 04:10:40.556  INFO 17372 --- [TestNG-tests-4] c.s.s.page.google.SearchComponent        : Waiting for page to load
+2020-11-02 04:10:40.587  INFO 17372 --- [TestNG-tests-4] c.s.s.page.google.SearchComponent        : Searching for keyword - selenium
+2020-11-02 04:10:40.761  INFO 17372 --- [TestNG-tests-2] c.s.s.page.google.SearchResultComponent  : Search result count is - 14
+2020-11-02 04:10:41.296  INFO 17372 --- [TestNG-tests-3] c.s.s.page.google.SearchResultComponent  : Search result count is - 14
+2020-11-02 04:10:41.586  INFO 17372 --- [TestNG-tests-1] c.s.s.page.google.SearchResultComponent  : Search result count is - 14
+2020-11-02 04:10:44.454  INFO 17372 --- [TestNG-tests-4] c.s.s.page.google.SearchResultComponent  : Search result count is - 14
+2020-11-02 04:32:31.481  WARN 18022 --- [TestNG-tests-2] o.s.boot.StartupInfoLogger               : InetAddress.getLocalHost().getHostName() took 5002 milliseconds to respond. Please verify your network configuration (macOS machines may need to add entries to /etc/hosts).
+2020-11-02 04:32:36.487  INFO 18022 --- [TestNG-tests-2] c.s.s.googleTest.GoogleTest2             : Starting GoogleTest2 on MACPRO51.local with PID 18022 (/Users/bhuwan.brijwasi/Documents/project/springbootcucumber/springBootSelenium/target/test-classes started by bhuwan.brijwasi in /Users/bhuwan.brijwasi/Documents/project/springbootcucumber/springBootSelenium)
+2020-11-02 04:32:36.488  INFO 18022 --- [TestNG-tests-2] c.s.s.googleTest.GoogleTest2             : No active profile set, falling back to default profiles: default
+2020-11-02 04:32:37.096  INFO 18022 --- [TestNG-tests-2] c.s.s.googleTest.GoogleTest2             : Started GoogleTest2 in 15.894 seconds (JVM running for 20.222)
+2020-11-02 04:32:37.313  INFO 18022 --- [TestNG-tests-1] i.g.bonigarcia.wdm.WebDriverManager      : Exporting webdriver.chrome.driver as /Users/bhuwan.brijwasi/.cache/selenium/chromedriver/mac64/86.0.4240.22/chromedriver
+2020-11-02 04:32:38.273  INFO 18022 --- [TestNG-tests-4] i.g.bonigarcia.wdm.WebDriverManager      : Using chromedriver 86.0.4240.22 (resolved driver for Chrome 86)
+2020-11-02 04:32:38.277  INFO 18022 --- [TestNG-tests-4] i.g.bonigarcia.wdm.WebDriverManager      : Exporting webdriver.chrome.driver as /Users/bhuwan.brijwasi/.cache/selenium/chromedriver/mac64/86.0.4240.22/chromedriver
+2020-11-02 04:32:38.288  INFO 18022 --- [TestNG-tests-3] i.g.bonigarcia.wdm.WebDriverManager      : Using chromedriver 86.0.4240.22 (resolved driver for Chrome 86)
+2020-11-02 04:32:38.290  INFO 18022 --- [TestNG-tests-3] i.g.bonigarcia.wdm.WebDriverManager      : Exporting webdriver.chrome.driver as /Users/bhuwan.brijwasi/.cache/selenium/chromedriver/mac64/86.0.4240.22/chromedriver
+2020-11-02 04:32:38.298  INFO 18022 --- [TestNG-tests-2] i.g.bonigarcia.wdm.WebDriverManager      : Using chromedriver 86.0.4240.22 (resolved driver for Chrome 86)
+2020-11-02 04:32:38.301  INFO 18022 --- [TestNG-tests-2] i.g.bonigarcia.wdm.WebDriverManager      : Exporting webdriver.chrome.driver as /Users/bhuwan.brijwasi/.cache/selenium/chromedriver/mac64/86.0.4240.22/chromedriver
+2020-11-02 04:32:41.525  INFO 18022 --- [Forwarding newSession on session null to remote] o.o.selenium.remote.ProtocolHandshake    : Detected dialect: W3C
+2020-11-02 04:32:41.529  INFO 18022 --- [Forwarding newSession on session null to remote] o.o.selenium.remote.ProtocolHandshake    : Detected dialect: W3C
+2020-11-02 04:32:41.667  INFO 18022 --- [TestNG-tests-2] c.s.s.page.google.GooglePage             : navigating to - https://www.google.com
+2020-11-02 04:32:41.667  INFO 18022 --- [TestNG-tests-3] c.s.s.page.google.GooglePage             : navigating to - https://www.google.com
+2020-11-02 04:32:41.756  INFO 18022 --- [Forwarding newSession on session null to remote] o.o.selenium.remote.ProtocolHandshake    : Detected dialect: W3C
+2020-11-02 04:32:41.761  INFO 18022 --- [TestNG-tests-1] c.s.s.page.google.GooglePage             : navigating to - https://www.google.com
+2020-11-02 04:32:41.846  INFO 18022 --- [Forwarding newSession on session null to remote] o.o.selenium.remote.ProtocolHandshake    : Detected dialect: W3C
+2020-11-02 04:32:41.852  INFO 18022 --- [TestNG-tests-4] c.s.s.page.google.GooglePage             : navigating to - https://www.google.com
+2020-11-02 04:32:49.935  INFO 18022 --- [TestNG-tests-2] c.s.s.page.google.SearchComponent        : Waiting for page to load
+2020-11-02 04:32:49.935  INFO 18022 --- [TestNG-tests-3] c.s.s.page.google.SearchComponent        : Waiting for page to load
+2020-11-02 04:32:49.998  INFO 18022 --- [TestNG-tests-3] c.s.s.page.google.SearchComponent        : Searching for keyword - environment
+2020-11-02 04:32:49.998  INFO 18022 --- [TestNG-tests-2] c.s.s.page.google.SearchComponent        : Searching for keyword - selenium
+2020-11-02 04:32:50.390  INFO 18022 --- [TestNG-tests-1] c.s.s.page.google.SearchComponent        : Waiting for page to load
+2020-11-02 04:32:50.395  INFO 18022 --- [TestNG-tests-4] c.s.s.page.google.SearchComponent        : Waiting for page to load
+2020-11-02 04:32:50.424  INFO 18022 --- [TestNG-tests-1] c.s.s.page.google.SearchComponent        : Searching for keyword - environment
+2020-11-02 04:32:50.427  INFO 18022 --- [TestNG-tests-4] c.s.s.page.google.SearchComponent        : Searching for keyword - selenium
+2020-11-02 04:32:53.919  INFO 18022 --- [TestNG-tests-2] c.s.s.page.google.SearchResultComponent  : Search result count is - 14
+2020-11-02 04:32:54.116  INFO 18022 --- [TestNG-tests-3] c.s.s.page.google.SearchResultComponent  : Search result count is - 14
+2020-11-02 04:32:54.278  INFO 18022 --- [TestNG-tests-1] c.s.s.page.google.SearchResultComponent  : Search result count is - 14
+2020-11-02 04:32:54.558  INFO 18022 --- [TestNG-tests-4] c.s.s.page.google.SearchResultComponent  : Search result count is - 14
