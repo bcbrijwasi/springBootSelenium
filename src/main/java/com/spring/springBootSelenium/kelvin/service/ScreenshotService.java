@@ -31,4 +31,8 @@ public class ScreenshotService {
         FileCopyUtils.copy(sourceFile,destPath.toFile());
     }
 
+    public byte[] getScreenshot() throws IOException {
+        return this.ctx.getBean(TakesScreenshot.class).getScreenshotAs(OutputType.BYTES);
+    }
+
 }
